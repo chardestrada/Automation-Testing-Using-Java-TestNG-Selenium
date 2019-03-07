@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="VisTracks Portal Regression Test Suite" >
+
+    <listeners>
+        <listener class-name="util.listener.TestListener"/>
+        <listener class-name="util.listener.AnnotationTransformer"/>
+    </listeners>
+
+    <test name="VisTracks Portal Tests 1904">
+        <classes>
+            <class name="test.suite.SignIn" />
+            <!--<class name="test.suite.Terminal" />-->
+            <!--<class name="test.suite.UserRole" />-->
+            <!--<class name="test.suite.User" />-->
+        </classes>
+    </test>
+
+</suite>

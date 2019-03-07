@@ -1,0 +1,4 @@
+Name,TerminalCode,Street,City,State,PostalCode,Country,TimeZone,StartTimeOfDay
+Terminal A,T-00-A,"801 Warrenville Rd, Suite 50",Lisle,Illinois,60532,United States,CST6CDT,18:00
+Terminal B,T-00-B,505 N. Michigan Ave.,Chicago,Illinois,60611,United States,CST6CDT,12:00
+Terminal C,T-00-C,6900 Woolworth Rd,Shreveport,LA,71133,United States,CST6CDT,12:00
