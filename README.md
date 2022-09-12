@@ -1,2 +1,1 @@
-# first_test
-first test automation
+Automation Testing Using Java, TestNG, Selenium
